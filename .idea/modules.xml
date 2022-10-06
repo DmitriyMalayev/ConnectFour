@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Connect_Four.iml" filepath="$PROJECT_DIR$/.idea/modules/Connect_Four.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Equality/How to compare/Connect_Four.Topics-Equality-How_to_compare.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Equality/How to compare/Connect_Four.Topics-Equality-How_to_compare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Equality/How to compare/Connect_Four.Topics-Equality-How_to_compare.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Equality/How to compare/Connect_Four.Topics-Equality-How_to_compare.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Equality/How to compare/Connect_Four.Topics-Equality-How_to_compare.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Equality/How to compare/Connect_Four.Topics-Equality-How_to_compare.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Equality/Referential equality/Connect_Four.Topics-Equality-Referential_equality.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Equality/Referential equality/Connect_Four.Topics-Equality-Referential_equality.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Equality/Referential equality/Connect_Four.Topics-Equality-Referential_equality.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Equality/Referential equality/Connect_Four.Topics-Equality-Referential_equality.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Equality/Referential equality/Connect_Four.Topics-Equality-Referential_equality.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Equality/Referential equality/Connect_Four.Topics-Equality-Referential_equality.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Equality/The same object/Connect_Four.Topics-Equality-The_same_object.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Equality/The same object/Connect_Four.Topics-Equality-The_same_object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Equality/The same object/Connect_Four.Topics-Equality-The_same_object.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Equality/The same object/Connect_Four.Topics-Equality-The_same_object.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Equality/The same object/Connect_Four.Topics-Equality-The_same_object.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Equality/The same object/Connect_Four.Topics-Equality-The_same_object.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Equality/Theory/Connect_Four.Topics-Equality-Theory.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Equality/Theory/Connect_Four.Topics-Equality-Theory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Equality/Theory/Connect_Four.Topics-Equality-Theory.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Equality/Theory/Connect_Four.Topics-Equality-Theory.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Equality/Theory/Connect_Four.Topics-Equality-Theory.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Equality/Theory/Connect_Four.Topics-Equality-Theory.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Equality/True captain/Connect_Four.Topics-Equality-True_captain.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Equality/True captain/Connect_Four.Topics-Equality-True_captain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Equality/True captain/Connect_Four.Topics-Equality-True_captain.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Equality/True captain/Connect_Four.Topics-Equality-True_captain.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Equality/True captain/Connect_Four.Topics-Equality-True_captain.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Equality/True captain/Connect_Four.Topics-Equality-True_captain.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Connect_Four.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Connect_Four.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Connect_Four.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Connect_Four.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Connect_Four.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Connect_Four.util.test.iml" />
+    </modules>
+  </component>
+</project>
