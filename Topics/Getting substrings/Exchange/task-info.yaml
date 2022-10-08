@@ -1,0 +1,24 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun main() {
+        // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/12366#comment
+status: Failed
+feedback:
+  message: "Failed test #1 of 3. Runtime error\n\nThis is a sample test from the problem\
+    \ statement!\n\nTest input:\nHellow\nCorrect output:\nwelloH\n\nYour code output:\n\
+    \n\nError:\nException in thread \"main\" java.lang.StringIndexOutOfBoundsException:\
+    \ begin -1, end -1, length 7\n\tat java.base/java.lang.String.checkBoundsBeginEnd(String.java:3319)\n\
+    \tat java.base/java.lang.String.substring(String.java:1874)\n\tat MainKt.main(main.kt:4)\n\
+    \tat MainKt.main(main.kt)\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native\
+    \ Method)\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\n\
+    \tat java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\n\
+    \tat java.base/java.lang.reflect.Method.invoke(Method.java:566)\n\tat org.jetbrains.kotlin.runner.AbstractRunner.run(runners.kt:70)\n\
+    \tat org.jetbrains.kotlin.runner.Main.run(Main.kt:188)\n\tat org.jetbrains.kotlin.runner.Main.main(Main.kt:198)\n"
+  time: Sat, 08 Oct 2022 04:27:22 UTC
+record: -1
