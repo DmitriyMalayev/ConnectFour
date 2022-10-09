@@ -10,6 +10,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Connect Four/task" />
             <option value="$PROJECT_DIR$/Topics/Equality/How to compare" />
             <option value="$PROJECT_DIR$/Topics/Equality/Kings of Sweden" />
             <option value="$PROJECT_DIR$/Topics/Equality/Referential equality" />

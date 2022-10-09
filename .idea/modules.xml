@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Connect_Four.iml" filepath="$PROJECT_DIR$/.idea/modules/Connect_Four.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Connect Four/task/Connect_Four.Connect_Four-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Connect Four/task/Connect_Four.Connect_Four-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Connect Four/task/Connect_Four.Connect_Four-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Connect Four/task/Connect_Four.Connect_Four-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Connect Four/task/Connect_Four.Connect_Four-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Connect Four/task/Connect_Four.Connect_Four-task.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Equality/How to compare/Connect_Four.Topics-Equality-How_to_compare.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Equality/How to compare/Connect_Four.Topics-Equality-How_to_compare.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Equality/How to compare/Connect_Four.Topics-Equality-How_to_compare.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Equality/How to compare/Connect_Four.Topics-Equality-How_to_compare.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Equality/How to compare/Connect_Four.Topics-Equality-How_to_compare.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Equality/How to compare/Connect_Four.Topics-Equality-How_to_compare.test.iml" />
